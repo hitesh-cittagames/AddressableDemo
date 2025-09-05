@@ -1,2 +1,0 @@
-# AddressableDemo
-test project
